@@ -1,11 +1,8 @@
-# Mobx
-Mobx todolist小案例
+# react-mobx-todoList实例
 
 #### 安装依赖： npm install
 
 #### 运行： npm start 
-
-
 
 
 #### 部分代码
