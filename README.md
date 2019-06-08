@@ -3,9 +3,10 @@ Mobx todolist小案例
 
 #### 安装依赖： npm install
 
-#### 运行： npm start
+#### 运行： npm start 
 
-![image](http://pexpn9gr1.bkt.clouddn.com/mobx-todoList.jpg)
+
+
 
 #### 部分代码
 ```javasxript
@@ -45,7 +46,3 @@ class Store {
 }
 
 let store =  new Store();
-
-```
-
-![image](http://pexpn9gr1.bkt.clouddn.com/thanks-star.jpg) 
